@@ -39,6 +39,7 @@ I'm a 29 year-old front-end Web Developer from Bangladesh, Dhaka. I have a passi
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 <br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdrkrezaa&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdrkreza&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
