@@ -49,10 +49,7 @@ I'm a 29 year-old front-end Web Developer from Bangladesh, Dhaka. I have a passi
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats">
     <img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdrkreza&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </a>
-  <br/>
-  
- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bdrkreza&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  
 
 
