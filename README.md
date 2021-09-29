@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[modus ecommerce website](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[modus ecommerce website](https://modus-tailwind.web.app/)**
 
 - 🌱 I’m currently learning **typeScript and nextjs.**
 
