@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://rezulkarim.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://rk-reza.web.app/)**
 
 - 📫 How to reach me **rkreza2020@mail.com**
 
